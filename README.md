@@ -6,3 +6,6 @@ I am interested in artificial intelligence, data science, programming, and web d
 - Data Science
 - Artificial Intelligence
 - Git & GitHub
+## Projects
+
+I am working on academic and personal projects to improve my programming, AI, data science, and web development skills.
