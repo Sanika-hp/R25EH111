@@ -9,3 +9,6 @@ I am interested in artificial intelligence, data science, programming, and web d
 ## Projects
 
 I am working on academic and personal projects to improve my programming, AI, data science, and web development skills.
+## Goals
+
+My goal is to strengthen my technical skills and build practical projects in AI and Data Science.
