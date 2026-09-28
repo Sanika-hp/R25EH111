@@ -12,3 +12,8 @@ I am working on academic and personal projects to improve my programming, AI, da
 ## Goals
 
 My goal is to strengthen my technical skills and build practical projects in AI and Data Science.
+## Projects
+
+### Project 1: GitHub Fundamentals
+
+This project demonstrates my understanding of GitHub fundamentals, including repositories, branches, commits, pull requests, and GitHub Pages.
